@@ -5,7 +5,7 @@ WriteLine("Введите значение N");
 int n = int.Parse(ReadLine());
 
 if (n<=0) {
-    WriteLine("Введено некорректное значение N");;
+    WriteLine("Введено некорректное значение N");
 }
 
 printNaturalNumber(n);
